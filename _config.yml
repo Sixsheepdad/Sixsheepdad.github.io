@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Sixsheep's Homepage"
 title_separator          : "-"
 name                     : &name "Sixsheep"
 description              : &description "Hello!"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sixsheepdad.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Sixsheepdad/Sixsheepdad.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : "Earth"
   employer         : "Wuhan University"
   uri              : https://sixsheepdad.github.io/
-  email            : "1846420393@qq" 
+  email            : "1846420393@qq.com" 
 
   # Academic websites
   academia         : # URL
