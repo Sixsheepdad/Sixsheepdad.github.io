@@ -5,5 +5,5 @@ permalink: /experience/
 
 ## Experience
 
-- 2023–Now: XXX Intern @ Company
-- 2022–2023: Research Assistant @ Lab
+- 2021–2025: China University of Geosciences (Wuhan)
+- 2025–Now: Wuhan University
