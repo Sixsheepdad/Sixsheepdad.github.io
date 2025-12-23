@@ -13,7 +13,7 @@ title                    : "Sixsheep's Homepage"
 title_separator          : "-"
 name                     : &name "Sixsheep"
 description              : &description "Hello!"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sixsheepdad.github.io/
+url                      : "https://sixsheepdad.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sixsheepdad/Sixsheepdad.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Welcome!"
   location         : "Earth"
   employer         : "Wuhan University"
-  uri              : https://sixsheepdad.github.io/
+  uri              : "https://sixsheepdad.github.io"
   email            : "1846420393@qq.com" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Sixsheepdad/"
+  github           : "Sixsheepdad"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
