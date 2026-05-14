@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sixsheep's Homepage"
+title                    : "Liuzhiyang's Homepage"
 title_separator          : "-"
-name                     : &name "Sixsheep"
-description              : &description "Hello!"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Liuzhiyang"
+description              : &description "Multimodal Remote Sensing & Computer Vision"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://sixsheepdad.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sixsheepdad/Sixsheepdad.github.io"
@@ -23,13 +23,13 @@ repository               : "Sixsheepdad/Sixsheepdad.github.io"
 author:
   # Biographic information
   avatar           : "creeper.png"
-  name             : "Sixsheep"
-  pronouns         : # example: "she/her"  
-  bio              : "Welcome!"
-  location         : "Earth"
+  name             : "Liuzhiyang"
+  pronouns         : # example: "she/her"
+  bio              : "Multimodal Remote Sensing · Computer Vision"
+  location         : "Wuhan, China"
   employer         : "Wuhan University"
   uri              : "https://sixsheepdad.github.io"
-  email            : "lxiaoyang208@gmail.com" 
+  email            : "liuzhiyangreal@whu.edu.cn"
 
   # Academic websites
   academia         : # URL
